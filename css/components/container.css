@@ -1,0 +1,16 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.container > h1 {
+  text-shadow: 0 0 8px black;
+  line-height: 32px;
+  color: white;
+}
+
+.container > p {
+  color: rgb(80, 80, 80);
+  font-weight: 800;
+  text-shadow: 0 0 2px rgba(255, 255, 255, 0.718);
+}
